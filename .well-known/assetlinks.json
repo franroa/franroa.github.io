@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds",
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.franroa.homelab.pilot",
+      "sha256_cert_fingerprints": [
+        "7F:97:7E:A6:CE:26:38:F4:69:C2:A6:B9:D3:66:7A:9E:86:20:74:B9:98:E3:C5:0D:14:65:CD:4D:37:3A:8E:87"
+      ]
+    }
+  }
+]
